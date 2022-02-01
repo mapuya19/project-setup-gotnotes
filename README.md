@@ -54,4 +54,4 @@ These will be implemented:
 * [Kaan Karakas](https://github.com/KocKaan)
 * [Mark Zarutin](https://github.com/m4rker11)
 
-#### If you are iterested in contributing please read [Contributing.md](https://github.com/software-students-fall2021/project-setup-gotnotes/blob/master/CONTRIBUTING.md)
+### If you are interested in contributing, please read [Contributing.md](https://github.com/software-students-fall2021/project-setup-gotnotes/blob/master/CONTRIBUTING.md)
